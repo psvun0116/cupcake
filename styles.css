@@ -1,0 +1,35 @@
+body {
+  text-align: center;
+}
+
+h1 {
+  color: pink;
+}
+
+h2 {
+  color: #ffdb58;
+  font-style: bold;
+}
+
+h3 {
+  font-style: italic;
+}
+
+.flavors ol {
+  display: inline-block;
+}
+
+img {
+  height: 200px;
+  float: bottom;
+}
+
+.best p{
+  font-family: sans-serif;
+  font-style: italic;
+}
+
+p.flashy {
+  font-style: italic;
+  color: red;
+}
